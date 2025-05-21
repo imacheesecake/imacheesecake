@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm imacheesecake
+# 👋 Hi there, I'm Sherlyn
 
 Welcome to my GitHub profile — I'm an aspiring full-stack developer with a focus on building clean, functional web apps and booking systems. I enjoy combining front-end design with backend logic, and I'm always exploring ways to improve user experience.
 
