@@ -1,27 +1,56 @@
-# 👋 Hi there, I'm Sherlyn
+# 👋 Hi there, I'm imacheesecake
 
-Welcome to my GitHub profile — I'm an aspiring full-stack developer with a focus on building clean, functional web apps and booking systems. I enjoy combining front-end design with backend logic, and I'm always exploring ways to improve user experience.
+I'm a developer with a background in **Information Systems and Technology (B.S.)** and a strong interest in both **web development** and **cybersecurity**.
 
-## 🧠 Tech Stack
-- 💻 Languages: C#, HTML, CSS, JavaScript
-- 🌐 Frameworks: ASP.NET Core MVC, Razor Pages
-- 🗃️ Tools: SQL Server, Git, Visual Studio, GitHub, Nmap
-- 💡 Interests: Web apps, automation, scheduling systems, creative portfolios
+I enjoy building clean, functional applications with real-world use — such as booking systems, order platforms, and digital tools that simplify user workflows. I also explore networking and security through hands-on labs and scripting in tools like Nmap, Kali Linux, and Windows-based test environments.
 
-## 📌 Featured Projects
+---
 
-- 🔗 [Photo Booking Website](https://github.com/imacheesecake/BookAnAppointment)  
-  A photography studio booking site with package selection, custom styling, and full backend routing.
+## 💻 Tech Stack & Tools
 
-- 🔗 [Cake Order Website](https://github.com/imacheesecake/Website-for-Cake-Orders)  
-  A small business site for ordering custom cakes and treats with dynamic menus and themed options.
+- **Languages**: C#, HTML, CSS, JavaScript, SQL  
+- **Frameworks**: ASP.NET Core MVC, Razor Pages  
+- **Tools**: Visual Studio, Git, SQL Server, GitHub  
+- **Cybersecurity**: Kali Linux, Nmap, Burp Suite, basic scripting, enumeration  
+- **Concepts**: Full-stack app design, CRUD logic, UI/UX layout, basic pentesting
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 [Photo Booking Website](https://github.com/imacheesecake/BookAnAppointment)
+A full ASP.NET MVC web application for booking photography sessions. Includes dynamic pricing, customizable packages, studio options, and a modern front-end UI.
+
+### 🔹 [Cake Order Website](https://github.com/imacheesecake/Website-for-Cake-Orders)
+A themed dessert ordering site built with ASP.NET and HTML/CSS. Designed for small business use with menu display, pickup scheduling, and customizations.
+
+<!-- Optional future project for cyber -->
+### 🔹 [Cyberlab Tools] *(Coming Soon)*
+A repo with simple cybersecurity tools, scripts, and lab write-ups from personal projects and pentesting practice.
+
+---
+
+## 📍 About Me
+
+🎓 **Bachelor’s in Information Systems & Technology** Cybersecurity Concentration
+🌐 Based in California  
+🛠 Currently building tools that blend software development with cybersecurity awareness  
+🔍 Open to entry-level roles or freelance projects in:
+- Full-stack or web development
+- Cybersecurity-adjacent automation or tooling
+
+---
 
 ## 📬 Get in Touch
 If you're looking for someone to help on creative or technical projects — or just want to connect:
 
-💼 LinkedIn: [(https://www.linkedin.com/in/sherlyn-gutierrez-robles-8614a7280/)]  
-📍 Based in California
+
+💼 [LinkedIn](https://www.linkedin.com/in/sherlyn-gutierrez-robles-8614a7280/)  
+🌱 Always learning, always building
+
+
 
 ---
+
 
 Thanks for visiting!
