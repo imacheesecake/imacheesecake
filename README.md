@@ -18,11 +18,17 @@ I enjoy building clean, functional applications with real-world use — such as 
 
 ## 🚀 Featured Projects
 
-### 🔹 [Photo Booking Website](https://github.com/imacheesecake/BookAnAppointment)
+### 🔹 [Photo Booking Website](https://github.com/imacheesecake/BookAnAppointment)  
 A full ASP.NET MVC web application for booking photography sessions. Includes dynamic pricing, customizable packages, studio options, and a modern front-end UI.
 
-### 🔹 [Cake Order Website](https://github.com/imacheesecake/Website-for-Cake-Orders)
+### 🔹 [Photo Booking Site (Updated)](https://github.com/imacheesecake/PhotoBookingSite)  
+A refined version of the booking platform using expanded packages, contact forms, and styling improvements — designed for real-world studio deployment.
+
+### 🔹 [Cake Order Website](https://github.com/imacheesecake/Website-for-Cake-Orders)  
 A themed dessert ordering site built with ASP.NET and HTML/CSS. Designed for small business use with menu display, pickup scheduling, and customizations.
+
+### 🔹 [NetScan](https://github.com/imacheesecake/NetScan)  
+A simple network scanning tool built for cybersecurity lab use. Designed to identify open ports and services using Nmap automation techniques.
 
 
 ---
