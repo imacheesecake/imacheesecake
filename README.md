@@ -24,15 +24,12 @@ A full ASP.NET MVC web application for booking photography sessions. Includes dy
 ### 🔹 [Cake Order Website](https://github.com/imacheesecake/Website-for-Cake-Orders)
 A themed dessert ordering site built with ASP.NET and HTML/CSS. Designed for small business use with menu display, pickup scheduling, and customizations.
 
-<!-- Optional future project for cyber -->
-### 🔹 [Cyberlab Tools] *(Coming Soon)*
-A repo with simple cybersecurity tools, scripts, and lab write-ups from personal projects and pentesting practice.
 
 ---
 
 ## 📍 About Me
 
-🎓 **Bachelor’s in Information Systems & Technology** Cybersecurity Concentration
+🎓 **Bachelor’s in Information Systems & Technology** ~ Cybersecurity Concentration
 🌐 Based in California  
 🛠 Currently building tools that blend software development with cybersecurity awareness  
 🔍 Open to entry-level roles or freelance projects in:
